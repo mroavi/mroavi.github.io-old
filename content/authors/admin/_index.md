@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Docent / Ph.D. candidate
+role: Docent / Ph.D. TU Eindhoven
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -55,18 +55,18 @@ interests:
   - Robotics
 
 education:
-  - area: PhD in Probabilistic Graphical Models
+  - area: PhD in Model-Based Machine Learning
     institution: Eindhoven University of Technology (TU/e)
     date_start: 2018-02-01
-    date_end:
+    date_end: 2025-12-17
     summary: |
-      Thesis on _Scalable Inference in Discrete Graphical Models_. Supervised
-      by Henk Corporaal and Sander Stuijk.
+      Thesis on _Exact Inference Optimization in Discrete Graphical Models_.
+      Supervised by Henk Corporaal, Bert de Vries, and Sander Stuijk.
 #     Presented papers at 5 IEEE conferences with the contributions being
 #     published in 2 Springer journals.
-#    button:
-#      text: 'Read Thesis'
-#      url: 'https://example.com'
+    button:
+      text: 'Read Thesis'
+      url: 'https://research.tue.nl/nl/publications/exact-inference-optimization-in-discrete-graphical-models/'
   - area: M.Sc. in Embedded Systems
     institution: Eindhoven University of Technology (TU/e)
     date_start: 2011-09-01
